@@ -1,6 +1,6 @@
 # Scope of Research — The Product Genome Book
 
-**Purpose:** Define research objectives, topics, and capture methodology for gathering evidence, case studies, and academic/practitioner insights to support the 20-chapter book structure.
+**Purpose:** Define research objectives, topics, and capture methodology for gathering evidence, case studies, and academic/practitioner insights to support the 24-chapter book structure (expanded to give each DNA dedicated depth).
 
 **Last Updated:** 30 November 2025  
 **Research Period:** Dec 2025 – Mar 2026  
@@ -126,7 +126,7 @@
 
 ---
 
-### Part II — The Genome in Practice (Chapters 5-8)
+### Part II — The Genome in Practice: The 8 DNAs (Chapters 5-12)
 
 #### Ch. 5: Purpose DNA
 **Research Topics:**
@@ -199,34 +199,129 @@
 
 ---
 
-#### Ch. 8: Architecture/Data/Validation/Growth/Cultural DNAs
+#### Ch. 8: Architecture DNA — Structural Stability & Evolution
 **Research Topics:**
 - [ ] Software architecture decision records (ADRs)
-- [ ] Data-driven decision making effectiveness
-- [ ] Experimentation platforms and methodologies
-- [ ] Growth model patterns (viral, paid, sales-led)
-- [ ] Engineering culture and values (Spotify, Netflix)
+- [ ] Evolutionary architecture patterns and fitness functions
+- [ ] Modularity and boundaries in software systems
+- [ ] Conway's Law and team organization
+- [ ] API contracts and versioning strategies
 
 **Key Questions:**
 - How do architecture decisions impact long-term velocity?
-- What data infrastructure enables product intelligence?
-- What experimentation rigor separates elite teams?
-- How do cultural values show up in product decisions?
+- What makes architecture decisions reversible vs irreversible?
+- How to balance stability with adaptability?
 
 **Sources to Explore:**
+- Michael Nygard's ADR work
 - "Building Evolutionary Architectures" — Ford, Parsons, Kua
-- "Designing Data-Intensive Applications" — Martin Kleppmann
-- "Trustworthy Online Controlled Experiments" — Kohavi et al
-- Growth hacking case studies (Reforge, Andrew Chen)
-- Netflix culture deck, Spotify engineering culture
+- Conway's Law research
+- API design guides (Stripe, Twilio)
+- "Fundamentals of Software Architecture" — Richards, Ford
 
-**Capture Format:** `part2-genome-practice/08-composite-dnas-research.md`
+**Capture Format:** `part2-genome-practice/08-architecture-dna-research.md`
 
 ---
 
-### Part III — Evolution Flow & Lenses (Chapters 9-12)
+#### Ch. 9: Data DNA — Intelligence Infrastructure
+**Research Topics:**
+- [ ] Data-driven decision making effectiveness
+- [ ] Data schema design and evolution
+- [ ] Privacy and compliance frameworks (GDPR, CCPA)
+- [ ] Analytics infrastructure patterns
+- [ ] Data quality and observability
 
-#### Ch. 9: Evolution Flow Cycle
+**Key Questions:**
+- What data infrastructure enables product intelligence?
+- How do elite teams instrument products for insights?
+- What data governance prevents compliance violations?
+
+**Sources to Explore:**
+- "Designing Data-Intensive Applications" — Martin Kleppmann
+- GDPR/CCPA compliance guides
+- Data mesh architecture patterns
+- Analytics best practices (Amplitude, Mixpanel)
+- "Building Analytics at 500px" case studies
+
+**Capture Format:** `part2-genome-practice/09-data-dna-research.md`
+
+---
+
+#### Ch. 10: Validation DNA — Evidence Over Assumptions
+**Research Topics:**
+- [ ] Experimentation platforms and methodologies
+- [ ] A/B testing best practices and pitfalls
+- [ ] Statistical significance in product experiments
+- [ ] Validation ladder frameworks
+- [ ] Assumption mapping and hypothesis testing
+
+**Key Questions:**
+- What experimentation rigor separates elite teams?
+- How to build assumption→validation→learning loops?
+- What are common experimentation anti-patterns?
+
+**Sources to Explore:**
+- "Trustworthy Online Controlled Experiments" — Kohavi, Tang, Xu
+- "Testing Business Ideas" — Bland, Osterwalder
+- Optimizely/LaunchDarkly experimentation guides
+- Lean Startup validation methodologies
+- Netflix experimentation culture papers
+
+**Capture Format:** `part2-genome-practice/10-validation-dna-research.md`
+
+---
+
+#### Ch. 11: Growth DNA — Sustainable Scaling
+**Research Topics:**
+- [ ] Growth model patterns (viral, paid, sales-led, product-led)
+- [ ] AARRR pirate metrics framework
+- [ ] Growth loops and network effects
+- [ ] Unit economics and CAC/LTV
+- [ ] Retention engineering strategies
+
+**Key Questions:**
+- What growth strategies align with product type?
+- How do sustainable growth loops differ from hacks?
+- What metrics predict long-term growth health?
+
+**Sources to Explore:**
+- Andrew Chen's growth writings
+- Dave McClure's AARRR framework
+- Reforge growth courses content
+- Product-led growth case studies (Slack, Dropbox, Zoom)
+- "Hacking Growth" — Ellis, Brown
+
+**Capture Format:** `part2-genome-practice/11-growth-dna-research.md`
+
+---
+
+#### Ch. 12: Cultural DNA — Values Embedded in Product
+**Research Topics:**
+- [ ] Engineering culture and values (Spotify, Netflix, Google)
+- [ ] Cultural artifacts and rituals
+- [ ] Decision-making frameworks aligned to values
+- [ ] Psychological safety research
+- [ ] Team topologies and Conway's Law
+
+**Key Questions:**
+- How do cultural values show up in product decisions?
+- What rituals embed culture into daily work?
+- How to measure culture beyond surveys?
+
+**Sources to Explore:**
+- Netflix culture deck and updates
+- Spotify engineering culture videos
+- "Team Topologies" — Skelton, Pais
+- Google's Project Aristotle (psychological safety)
+- "Accelerate" culture findings (Westrum organizational culture)
+
+**Capture Format:** `part2-genome-practice/12-cultural-dna-research.md`
+
+---
+
+### Part III — Evolution Flow & Lenses (Chapters 13-16)
+
+#### Ch. 13: Evolution Flow Cycle
 **Research Topics:**
 - [ ] Product development lifecycle models (Stage-Gate, Lean, Agile)
 - [ ] Workflow optimization research
@@ -245,11 +340,11 @@
 - Continuous Delivery papers (Jez Humble)
 - Agile lifecycle comparisons
 
-**Capture Format:** `part3-evolution-lenses/09-evolution-flow-research.md`
+**Capture Format:** `part3-evolution-lenses/13-evolution-flow-research.md`
 
 ---
 
-#### Ch. 10: Systems & Architectural Lenses
+#### Ch. 14: Systems & Architectural Lenses
 **Research Topics:**
 - [ ] Systems thinking in software (coupling, cohesion)
 - [ ] Modular architecture benefits (Conway's Law)
@@ -269,11 +364,11 @@
 - SRE literature (Google SRE books)
 - Distributed systems papers (CAP theorem, consistency models)
 
-**Capture Format:** `part3-evolution-lenses/10-systems-architecture-research.md`
+**Capture Format:** `part3-evolution-lenses/14-systems-architecture-research.md`
 
 ---
 
-#### Ch. 11: Psychological & Constraint Lenses
+#### Ch. 15: Psychological & Constraint Lenses
 **Research Topics:**
 - [ ] Cognitive load theory (Sweller)
 - [ ] Design constraints and creativity
@@ -293,11 +388,11 @@
 - Constraint-based innovation research
 - Code readability studies
 
-**Capture Format:** `part3-evolution-lenses/11-psychological-constraint-research.md`
+**Capture Format:** `part3-evolution-lenses/15-psychological-constraint-research.md`
 
 ---
 
-#### Ch. 12: Evolution Lens
+#### Ch. 16: Evolution Lens
 **Research Topics:**
 - [ ] Organizational learning theory
 - [ ] Experimentation culture case studies
@@ -317,13 +412,13 @@
 - "How Google Works" — Schmidt, Rosenberg
 - Toyota Kata (improvement culture)
 
-**Capture Format:** `part3-evolution-lenses/12-evolution-learning-research.md`
+**Capture Format:** `part3-evolution-lenses/16-evolution-learning-research.md`
 
 ---
 
-### Part IV — Extended Frameworks & AI (Chapters 13-16)
+### Part IV — Extended Frameworks & AI (Chapters 17-20)
 
-#### Ch. 13: Builder's Hierarchy
+#### Ch. 17: Builder's Hierarchy
 **Research Topics:**
 - [ ] Hierarchical decision-making in organizations
 - [ ] Capability mapping methodologies
@@ -342,11 +437,11 @@
 - Portfolio management standards (PMI)
 - Impact mapping (Gojko Adzic)
 
-**Capture Format:** `part4-frameworks-ai/13-hierarchy-research.md`
+**Capture Format:** `part4-frameworks-ai/17-hierarchy-research.md`
 
 ---
 
-#### Ch. 14: Cognitive Load Engineering
+#### Ch. 18: Cognitive Load Engineering
 **Research Topics:**
 - [ ] Code complexity metrics (cyclomatic, cognitive)
 - [ ] Developer experience research
@@ -365,11 +460,11 @@
 - Developer experience surveys (Stack Overflow, JetBrains)
 - Technical debt economics (Kruchten et al)
 
-**Capture Format:** `part4-frameworks-ai/14-cognitive-load-research.md`
+**Capture Format:** `part4-frameworks-ai/18-cognitive-load-research.md`
 
 ---
 
-#### Ch. 15: Product Gravity & Bio-Agile
+#### Ch. 19: Product Gravity & Bio-Agile
 **Research Topics:**
 - [ ] Network effects and product stickiness
 - [ ] Habit formation in products (Nir Eyal)
@@ -389,11 +484,11 @@
 - Biomimicry literature
 - Evolutionary computation research
 
-**Capture Format:** `part4-frameworks-ai/15-gravity-bioadaptive-research.md`
+**Capture Format:** `part4-frameworks-ai/19-gravity-bioadaptive-research.md`
 
 ---
 
-#### Ch. 16: NCO + APAP (AI Co-Creation)
+#### Ch. 20: NCO + APAP (AI Co-Creation)
 **Research Topics:**
 - [ ] AI-assisted development effectiveness studies
 - [ ] Prompt engineering best practices
@@ -413,13 +508,13 @@
 - Human-AI interaction papers
 - AI governance frameworks
 
-**Capture Format:** `part4-frameworks-ai/16-nco-apap-ai-research.md`
+**Capture Format:** `part4-frameworks-ai/20-nco-apap-ai-research.md`
 
 ---
 
-### Part V — Governance & Execution (Chapters 17-20)
+### Part V — Governance & Execution (Chapters 21-24)
 
-#### Ch. 17: Governance by Artifacts
+#### Ch. 21: Governance by Artifacts
 **Research Topics:**
 - [ ] Architecture Decision Records effectiveness
 - [ ] Documentation as code practices
@@ -438,11 +533,11 @@
 - Knowledge management research
 - Regulatory compliance case studies (FDA, SOC2)
 
-**Capture Format:** `part5-governance/17-artifact-governance-research.md`
+**Capture Format:** `part5-governance/21-artifact-governance-research.md`
 
 ---
 
-#### Ch. 18: Case Studies — Before/After
+#### Ch. 22: Case Studies — Before/After
 **Research Topics:**
 - [ ] Transformation case study collection (15-20 companies)
 - [ ] Common transformation patterns
@@ -465,7 +560,7 @@
 
 ---
 
-#### Ch. 19: Playbooks — Idea to Release
+#### Ch. 23: Playbooks — Idea to Release
 **Research Topics:**
 - [ ] Product development playbooks from industry leaders
 - [ ] Release management best practices
@@ -484,11 +579,11 @@
 - Launch playbooks (Reforge, Product School)
 - Incident management post-mortems
 
-**Capture Format:** `part5-governance/19-playbook-patterns-research.md`
+**Capture Format:** `part5-governance/23-playbook-patterns-research.md`
 
 ---
 
-#### Ch. 20: Scaling & Culture
+#### Ch. 24: Scaling & Culture
 **Research Topics:**
 - [ ] Scaling product organizations research
 - [ ] Culture decay patterns in growth
@@ -507,7 +602,7 @@
 - High-growth company case studies
 - Culture preservation strategies (Pixar, Amazon)
 
-**Capture Format:** `part5-governance/20-scaling-culture-research.md`
+**Capture Format:** `part5-governance/24-scaling-culture-research.md`
 
 ---
 
