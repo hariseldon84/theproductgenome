@@ -200,6 +200,7 @@ Based on Doerr's work and practitioner experience, here are common OKR failures:
 
 **Anti-Pattern 3: Output-Based Key Results**
 - **Problem**: "Ship 20 features this quarter" (output) vs "Increase user activation 25%" (outcome)
+
 - **Why it fails**: Returns to feature factory thinking—measures activity, not value
 
 **Anti-Pattern 4: No Connection to Purpose**
