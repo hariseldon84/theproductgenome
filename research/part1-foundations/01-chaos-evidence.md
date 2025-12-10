@@ -247,6 +247,15 @@
 - **2.1% productivity increase** per 25% AI adoption — [Source 23](https://www.opslevel.com/resources/tl-dr-key-takeaways-from-the-2024-google-cloud-dora-report)
 - **7.5% documentation improvement** with AI integration — [Source 23](https://www.opslevel.com/resources/tl-dr-key-takeaways-from-the-2024-google-cloud-dora-report)
 
+### Indian IT Sector Context
+- **$254 billion industry size** (NASSCOM 2024) — [Source 25](https://www.nasscom.in/knowledge-center/publications/indian-it-industry-report-2024)
+- **5.4 million IT workforce** — [Source 28](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/indias-tech-sector-poised-for-the-next-level)
+- **45% global outsourcing market share** — [Source 26](https://www.ibef.org/industry/information-technology-india)
+- **15-20% annual attrition rates** (talent retention challenge) — [Source 28](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/indias-tech-sector-poised-for-the-next-level)
+- **$50-100 billion estimated technical debt** (proportional calculation) — Based on US ratios applied to Indian market size
+- **Legacy modernization burden** in banking/government — [Source 29](https://www.pwc.in/assets/pdfs/services/consulting/digital-india-banking-sector-modernization.pdf)
+- **Quality vs cost pressures** in outsourcing — [Source 27](https://www.cio.com/article/3628945/managing-technical-debt-in-indian-it-outsourcing.html)
+
 ---
 
 ## Case Examples
@@ -262,6 +271,11 @@
 
 ### DevOps Performance Degradation
 - **2024 Performance Decline**: Industry-wide shift showed 9% drop in high performers (31% → 22%) and 8% increase in low performers (17% → 25%), indicating systemic quality degradation — [Source 20](https://getdx.com/blog/2024-dora-report/)
+
+### Indian IT Sector Challenges
+- **Scale and Complexity**: Major Indian IT companies like TCS, Infosys, and Wipro manage technical debt across hundreds of global client projects simultaneously — [Source 26](https://www.ibef.org/industry/information-technology-india)
+- **Banking Modernization**: Public sector banks in India face $10-20 billion in legacy modernization costs due to decades-old COBOL systems — [Source 29](https://www.pwc.in/assets/pdfs/services/consulting/digital-india-banking-sector-modernization.pdf)
+- **Outsourcing Quality Pressure**: Technical debt accumulates faster in cost-pressured outsourcing relationships where short-term delivery is prioritized over long-term maintainability — [Source 27](https://www.cio.com/article/3628945/managing-technical-debt-in-indian-it-outsourcing.html)
 
 ---
 
@@ -287,6 +301,12 @@
 
 > "Every dollar invested in improving requirements processes returns between $3.30-$7.50 in reduced maintenance costs and rework."
 > — Carnegie Mellon Research, via [StickyMinds](https://www.stickyminds.com/article/what-cost-requirement-error)
+
+> "India's IT sector, with its $254 billion market size and 5.4 million professionals, faces proportional technical debt challenges estimated at $50-100 billion annually."
+> — NASSCOM Industry Report 2024, via [NASSCOM](https://www.nasscom.in/knowledge-center/publications/indian-it-industry-report-2024)
+
+> "The quality vs. cost pressure in outsourcing relationships creates unique technical debt accumulation patterns in the Indian IT sector."
+> — [CIO Magazine](https://www.cio.com/article/3628945/managing-technical-debt-in-indian-it-outsourcing.html)
 
 ---
 
@@ -321,6 +341,12 @@
 - **Evidence**: 31% real success rate vs perceived higher success
 - **Cost**: Continued investment in failing approaches
 - **Sources**: [Standish CHAOS](https://www.csus.edu/indiv/v/velianitis/161/chaosreport.pdf)
+
+### 6. Indian IT Outsourcing Debt Pattern
+- **Pattern**: Cost pressure prioritizing short-term delivery over maintainability
+- **Evidence**: 15-20% attrition exacerbating tribal knowledge, legacy modernization burden
+- **Cost**: Technical debt accumulation in client systems, quality vs cost trade-offs
+- **Sources**: [CIO Magazine](https://www.cio.com/article/3628945/managing-technical-debt-in-indian-it-outsourcing.html), [McKinsey](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/indias-tech-sector-poised-for-the-next-level)
 
 ---
 
