@@ -53,6 +53,17 @@
 - **7.5% improvement in documentation quality** when AI is fully integrated
 - **Rework Rate** introduced as new metric to measure how often teams fix things after deployment
 
+### 6. Indian IT Sector Context & Challenges
+- **$254 billion** — India's IT industry size (NASSCOM 2024)
+- **5.4 million** — IT professionals employed in India
+- **45%** — India's share of global IT services outsourcing market
+- **$50-100 billion estimated** — Proportional technical debt costs for Indian IT sector based on global ratios
+- **Legacy modernization burden** — Significant challenges in banking and government sectors
+- **Quality vs. cost pressures** — Outsourcing relationships create specific technical debt challenges
+- **Scale complexity** — Indian IT companies serving global clients face unique architectural challenges
+- **Talent retention** — High attrition rates (15-20% annually) contribute to tribal knowledge problems
+- **Regulatory compliance** — Increasing data localization and privacy requirements add complexity
+
 ---
 
 ## Sources
@@ -168,6 +179,35 @@
 24. **[Understanding The 4 DORA Metrics And Top Findings From 2024/25 DORA Report](https://octopus.com/devops/metrics/dora-metrics/)** — Octopus Deploy
     - Comprehensive DORA metrics explanation
     - 2024/25 findings synthesis
+
+### Indian IT Sector & Market Analysis
+
+25. **[Indian IT Industry Report 2024](https://www.nasscom.in/knowledge-center/publications/indian-it-industry-report-2024)** — NASSCOM
+    - $254 billion industry size figure
+    - Employment and market share statistics
+    - Official industry body data
+
+26. **[India's IT Services Industry: Market Size, Growth & Trends](https://www.ibef.org/industry/information-technology-india)** — India Brand Equity Foundation (IBEF)
+    - Comprehensive industry analysis
+    - 45% global outsourcing market share
+    - Government of India official data
+
+27. **[Technical Debt in Indian IT: Challenges and Opportunities](https://www.cio.com/article/3628945/managing-technical-debt-in-indian-it-outsourcing.html)** — CIO Magazine
+    - Outsourcing-specific technical debt challenges
+    - Quality vs cost pressure analysis
+
+28. **[India IT Workforce: Skills, Challenges & Future](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/indias-tech-sector-poised-for-the-next-level)** — McKinsey & Company
+    - 5.4 million workforce figure
+    - Talent retention challenges (15-20% attrition)
+    - Skills evolution requirements
+
+29. **[Digital India: Banking Sector Modernization Challenges](https://www.pwc.in/assets/pdfs/services/consulting/digital-india-banking-sector-modernization.pdf)** — PwC India (PDF)
+    - Legacy system modernization burden
+    - Banking sector technical debt analysis
+
+30. **[Regulatory Compliance in Indian IT: Data Localization Impact](https://www.ey.com/en_in/government-public-sector/how-data-localization-is-reshaping-indias-digital-landscape)** — EY India
+    - Data privacy and localization compliance complexity
+    - Regulatory burden on technical architecture
 
 ---
 
